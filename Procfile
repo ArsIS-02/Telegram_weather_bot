@@ -1,1 +1,1 @@
-<Bot.java>com.home.server.TelegramBot</Bot.java>
+worker: java -Xmx300m -Xss512k -XX:CICompilerCount=2 -Dfile.encoding=UTF-8 -cp ./target/classes:./target/dependency/* worker: java -Xmx300m -Xss512k -XX:CICompilerCount=2 -Dfile.encoding=UTF-8 -cp ./target/classes:./target/dependency/* https://weather-bot-arsis.herokuapp.com/
