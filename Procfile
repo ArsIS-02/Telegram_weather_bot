@@ -1,1 +1,1 @@
-web: node telegramBotApi.js
+<Bot.java>com.home.server.TelegramBot</Bot.java>
